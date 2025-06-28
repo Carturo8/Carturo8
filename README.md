@@ -32,11 +32,19 @@ Always curious. Always learning.
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carturo8&show_icons=true&theme=tokyonight&title_color=ffd700&icon_color=ffd700&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carturo8&theme=tokyonight&hide_border=false&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffffff&dates=888888&sideNums=ffffff" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carturo8&layout=compact&theme=tokyonight&title_color=ffd700&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Carturo8&show_icons=true&theme=tokyonight&title_color=ffd700&icon_color=ffd700&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carturo8&theme=tokyonight&hide_border=false&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffffff&dates=888888&sideNums=ffffff" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <!-- 🚧 Work in Progress
 ## 🌐 Let's Connect
