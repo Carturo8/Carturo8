@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I'm Carlos Rojas — a Statistician specialized in Analytics, passionate about uncovering insights through data and transforming them into real-world solutions.
+I'm Carlos Rojas — a Statistician specialized in Analytics, passionate about uncovering insights from data and transforming them into real-world solutions.
 
-Lately, I've been deepening my knowledge in frontend and backend development while exploring fascinating fields like Artificial Intelligence, and expanding on topics such as Machine Learning and Data Visualization. I love combining math, logic, and creativity to build tools that are not just functional but also meaningful.
+Recently, I've been deepening my skills in frontend and backend development while exploring fascinating fields like Artificial Intelligence and expanding my expertise in Machine Learning and Data Visualization. I enjoy combining math, logic, and creativity to build tools that are not only functional but also meaningful.
 
 Always curious. Always learning.
 
@@ -23,11 +23,9 @@ Always curious. Always learning.
 ### 💻 Programming Languages  
 [![Languages](https://skillicons.dev/icons?i=python,r,js,html,css&perline=6)](https://skillicons.dev)
 
-### 🛠️ Tools & Environments  
+### 🛠️ Tools & Technologies
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm&perline=6)](https://skillicons.dev)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="Microsoft SQL Server" />
-
-<br/>
 
 ## 🔥 GitHub Stats
 
@@ -37,3 +35,11 @@ Always curious. Always learning.
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carturo8&layout=compact&theme=tokyonight&title_color=ffd700&text_color=ffffff&bg_color=000000" alt="Top Languages" />
 </p>
+
+<!-- 🚧 Work in Progress
+## 🌐 Let's Connect
+
+- 📧 Email: caarojasbo@unal.edu.co  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 🌍 Portfolio: [tuweb.com](https://tuweb.com)
+-->
