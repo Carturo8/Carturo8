@@ -24,8 +24,10 @@ Always curious. Always learning.
 [![Languages](https://skillicons.dev/icons?i=python,r,js,html,css&perline=6)](https://skillicons.dev)
 
 ### 🛠️ Tools & Technologies
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm&perline=6)](https://skillicons.dev)  
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm&perline=6)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="Microsoft SQL Server" />
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" alt="Power BI" title="Power BI" />
 
 ## 🔥 GitHub Stats
 
