@@ -1,45 +1,39 @@
 <h1 align="center">Hi, I'm Carlos Rojas 👋</h1>
 
 <p align="center">
-  <b>Statistician with a Specialization in Analytics</b>
+  ✨ <strong>Statistician</strong> &nbsp;|&nbsp; <strong>Specialized in Analytics</strong> ✨
 </p>
 
----
+<br/>
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a Statistician with a background in Analytics, currently expanding my skills in frontend and backend development, as well as exploring modern technologies like Artificial Intelligence. I enjoy building clean and efficient solutions using data, code, and logic.
+I'm Carlos Rojas — a Statistician specialized in Analytics, passionate about uncovering insights through data and transforming them into real-world solutions.
 
----
+Lately, I've been deepening my knowledge in frontend and backend development while exploring fascinating fields like Artificial Intelligence, and expanding on topics such as Machine Learning and Data Visualization. I love combining math, logic, and creativity to build tools that are not just functional but also meaningful.
 
-## 🧰 Skills
-
-### 💻 Programming Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</div>
-
-### 🛠️ Tools & Environments
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="JetBrains IDEs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
-</div>
-
----
-
-## 📊 GitHub Stats
+Always curious. Always learning.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carturo8&show_icons=true&theme=tokyonight&title_color=ffd700&icon_color=ffd700&text_color=ffffff&bg_color=000000" alt="Carlos' GitHub stats" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Laptop Icon" />
 </p>
 
----
+## 🧠 Skills
 
-<p align="center">Thanks for visiting! 🙌</p>
+### 💻 Programming Languages  
+[![Languages](https://skillicons.dev/icons?i=python,r,js,html,css&perline=6)](https://skillicons.dev)
+
+### 🛠️ Tools & Environments  
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm&perline=6)](https://skillicons.dev)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="Microsoft SQL Server" />
+
+<br/>
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carturo8&show_icons=true&theme=tokyonight&title_color=ffd700&icon_color=ffd700&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carturo8&theme=tokyonight&hide_border=false&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffffff&dates=888888&sideNums=ffffff" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carturo8&layout=compact&theme=tokyonight&title_color=ffd700&text_color=ffffff&bg_color=000000" alt="Top Languages" />
+</p>
