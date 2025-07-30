@@ -38,10 +38,10 @@ Always curious. Always learning.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Carturo8&show_icons=true&theme=tokyonight&title_color=ffd700&icon_color=ffd700&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Carturo8&show_icons=true&theme=tokyonight&title_color=ffd700&icon_color=ffd700&text_color=ffffff&bg_color=000000" alt="GitHub Stats" loading="lazy" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carturo8&theme=tokyonight&hide_border=false&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffffff&dates=888888&sideNums=ffffff" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Carturo8&theme=tokyonight&hide_border=false&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffffff&dates=888888&sideNums=ffffff" alt="GitHub Streak" loading="lazy" />
     </td>
   </tr>
 </table>
