@@ -49,11 +49,8 @@ with a growing interest in Artificial Intelligence and Machine Learning applicat
 
 #### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="45" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="45" />
 </p>
 
 ---
