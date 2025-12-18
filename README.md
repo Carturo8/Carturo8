@@ -20,66 +20,7 @@ Always curious. Always learning.
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90" alt="Coding Animation" />
 </p>
 
-## Skills & Tech Stack
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">Programming Languages</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,r,java,js,html,css" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">Tools & Platforms</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">Backend & Frameworks</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">IDEs & Development Tools</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,idea" />
-        <br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="35" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">Databases</h4>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-        <br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">API & Documentation</h4>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="35" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-## Let's Connect
-
-<p align="center">
+<p align="left">
   <a href="mailto:carlosarojas.bl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -91,7 +32,36 @@ Always curious. Always learning.
   </a>
 </p>
 
-## GitHub Stats
+## Skills & Tech Stack
+
+##### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,r,js,html,css" />
+</p>
+
+##### Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+##### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" />
+</p>
+
+##### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="45" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="45" />
+</p>
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img 
