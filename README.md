@@ -55,8 +55,6 @@ with a growing interest in Artificial Intelligence and Machine Learning applicat
 
 ---
 
-### GitHub Stats
-
 <p align="center">
   <table align="center" cellspacing="0" cellpadding="0">
     <tr>
