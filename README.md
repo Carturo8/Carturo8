@@ -60,14 +60,14 @@ with a growing interest in Artificial Intelligence and Machine Learning applicat
     <tr>
       <td style="border:2px solid; padding:8px; border-radius:10px;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=Carturo8&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true"
+          src="https://github-readme-stats-olive-ten-12.vercel.app/api?username=Carturo8&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true"
           height="170"
         />
       </td>
       <td width="14"></td>
       <td style="border:2px solid; padding:8px; border-radius:10px;">
         <img 
-          src="https://streak-stats.demolab.com?user=Carturo8&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
+          src="https://streak-stats.demolab.com/?user=Carturo8&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700"
           height="170"
         />
       </td>
@@ -80,7 +80,7 @@ with a growing interest in Artificial Intelligence and Machine Learning applicat
     <tr>
       <td style="border:2px solid; padding:8px; border-radius:10px;">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carturo8&layout=compact&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true"
+          src="https://github-readme-stats-olive-ten-12.vercel.app/api/top-langs/?username=Carturo8&layout=compact&theme=dark&title_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true"
           height="160"
         />
       </td>
